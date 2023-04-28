@@ -12,7 +12,7 @@ function App() {
    </main>
     </div>
     <footer className='text-center'>
-      Coded by Samantha Cramer
+      Open source code by <a href="https://github.com/sacrmr/dictionary-project" target='blank'>Samantha Cramer</a>
     </footer>
     </div>
   );
