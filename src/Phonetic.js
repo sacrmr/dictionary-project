@@ -11,4 +11,4 @@ export default function Phonetic(props){
             </a>
         </div>
     );
-}
+    }
