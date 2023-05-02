@@ -1,6 +1,6 @@
 
 import './App.css';
-import Dictionary from "./Dictionary.js"
+import Dictionary from "./Dictionary.js";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
    </main>
     </div>
     <footer className='text-center'>
-      Open source code by <a href="https://github.com/sacrmr/dictionary-project" target='blank'>Samantha Cramer</a>
+      Open source code by <a href="https://github.com/sacrmr/dictionary-project" target='blank' rel='noreferrer'>Samantha Cramer</a>
     </footer>
     </div>
   );
