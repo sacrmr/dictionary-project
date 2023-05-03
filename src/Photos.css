@@ -1,0 +1,11 @@
+.Photos img{
+    margin: 0 auto;
+    max-width: 100%;
+    padding:10px;
+    border-radius: 20px;
+    transition: all 150ms ease-in-out;
+}
+
+.Photos img:hover{
+    transform: scale(1.1);
+}

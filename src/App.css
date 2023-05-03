@@ -1,3 +1,16 @@
+body{
+    background: #EAB9A8;
+}
+
+.App .container{
+    max-width: 100%;
+}
+
+.App{
+    margin:0 auto;
+    max-width: 960px;
+}
+
 .App-header{
     text-align: center;
     font-size: 40px;
