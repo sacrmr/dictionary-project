@@ -16,7 +16,10 @@ export default function Result(props){
                   <Phonetic phonetic={phonetic} />
                 </div>
               );
+            }else {
+              return null;
             }
+
           })}
         </section>
         {props.results.meanings.map(function(meaning, index){
