@@ -1,5 +1,5 @@
 body{
-    background: #EAB9A8;
+    background: #eaf0ff;
 }
 
 .App .container{
@@ -13,6 +13,14 @@ body{
 
 .App-header{
     text-align: center;
-    font-size: 40px;
+    font-size: 42px;
     font-weight: 700;
+}
+
+.App footer{
+    padding:20px;
+}
+
+.App footer a{
+    text-decoration: none;
 }

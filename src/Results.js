@@ -10,7 +10,7 @@ export default function Result(props){
         <section>
           <h2>{props.results.word}</h2>
           {props.results.phonetics.map(function (phonetic, index) {
-            if (index === 0) {
+            if (index < 4) {
               return (
                 <div key={index}>
                   <Phonetic phonetic={phonetic} />
